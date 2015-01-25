@@ -43,4 +43,6 @@ The following files are available for the train and test data. Their description
 
 The final tidy data contains the following variables:
 
-- 
+- Subject: identifies the user ID responsible for generating the observation.
+- Activity: defines which activity was done by the user, originating the data in this row. 
+- The remaining data point to the information provided by the mean, using training and test data.
